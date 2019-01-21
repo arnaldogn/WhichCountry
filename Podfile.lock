@@ -1,0 +1,37 @@
+PODS:
+  - FlagKit (2.0.1)
+  - RxAtomic (4.4.0)
+  - RxCocoa (4.4.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.4.0):
+    - RxAtomic (~> 4.4)
+  - SnapKit (4.2.0)
+  - Swinject (2.4.1)
+
+DEPENDENCIES:
+  - FlagKit (~> 2.0.1)
+  - RxCocoa (~> 4.0)
+  - RxSwift (~> 4.0)
+  - SnapKit (~> 4.2)
+  - Swinject (~> 2.4.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlagKit
+    - RxAtomic
+    - RxCocoa
+    - RxSwift
+    - SnapKit
+    - Swinject
+
+SPEC CHECKSUMS:
+  FlagKit: 75c64346179f254d1753bebdc5b1f9cbe7890748
+  RxAtomic: eacf60db868c96bfd63320e28619fe29c179656f
+  RxCocoa: df63ebf7b9a70d6b4eeea407ed5dd4efc8979749
+  RxSwift: 5976ecd04fc2fefd648827c23de5e11157faa973
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  Swinject: f7f15a9672e99328c1f07f277091087917215700
+
+PODFILE CHECKSUM: 65216e96b2bc1f854a69ce09c35ee9cb8696df9b
+
+COCOAPODS: 1.5.3
